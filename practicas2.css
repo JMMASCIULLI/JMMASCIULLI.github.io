@@ -1,6 +1,10 @@
 .rosa{
-    background-color: rgb(247, 146, 161);
+    background-color: rgb(236, 105, 179);
 }
 ¨{bod;}
 
-    <FONT size=6 COLOR="red">E</FONT><FONT SIZE=4>sto es una </FONT> 
+
+      
+      table, th, td {
+        border: 1px solid black;
+      }
