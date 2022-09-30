@@ -2,3 +2,9 @@
     background-color: #b5decd75;
 }
 .margen {margin:20px 0px}
+
+
+
+.circular--square {
+    border-radius: 70%;
+  }
